@@ -1,0 +1,14 @@
+#first {
+    color: brown
+}
+/* external */
+.first-class {
+    color: red
+}
+
+
+*{
+    color: violet   /*!important 
+    /* !importan -> uu tien nhat */
+} 
+/* mức thấp nhất */
